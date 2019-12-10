@@ -1,1 +1,3 @@
 # gomokuBot
+
+run gomoku.py
