@@ -1,3 +1,3 @@
-# gomokuBot
+# Gomoku Bot
 
-run gomoku.py
+`python3 gomoku.py`
